@@ -27,8 +27,9 @@
 - 숫자를 직접 입력하는 게 아닌 버튼 클릭 방식이 어떻게 동작하는지 이해
 
 ## 📂 실행 방법
-git clone https://github.com/yourname/react-calculator.git
-cd react-calculator
+```bash
+git clone https://github.com/you-summer/calculator-react.git
+cd calculator-react
 npm install
 npm run dev
 
