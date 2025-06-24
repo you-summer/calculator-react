@@ -21,3 +21,17 @@
 - React (useState 사용)
 - JSX 기반 컴포넌트 구성
 - 간단한 CSS 스타일링
+
+- 💡 배운 점 / 느낀 점
+React에서 상태값을 어떻게 활용하는지 익힘
+숫자를 직접 입력하는 게 아닌 버튼 클릭 방식이 어떻게 동작하는지 이해
+
+📂 실행 방법
+git clone https://github.com/yourname/react-calculator.git
+cd react-calculator
+npm install
+npm run dev
+
+🙋‍♀️ 만든 사람
+이름: 조연정
+블로그: [https://your-blog-link](https://blog.naver.com/jojoor201/223910375086)
