@@ -1,8 +1,5 @@
 # React 버튼 계산기 🎯
 
-![npm](https://img.shields.io/badge/npm-v1.0.0-blue)
-![license](https://img.shields.io/badge/license-MIT-green)
-
 1. 초기버전 <br/>
 ![Image](https://github.com/user-attachments/assets/81879dae-c8e1-458f-9f0e-cdd360ea44e7)
 
