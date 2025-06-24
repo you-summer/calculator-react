@@ -36,4 +36,4 @@ npm run dev
 
 ## 🙋‍♀️ 만든 사람
 이름: 조연정 <br/>
-블로그: [https://your-blog-link](https://blog.naver.com/jojoor201/223910375086)
+블로그: https://blog.naver.com/jojoor201/223910375086
