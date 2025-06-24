@@ -31,7 +31,8 @@
 git clone https://github.com/you-summer/calculator-react.git
 cd calculator-react
 npm install
-npm run dev
+npm run dev```
+
 
 ## 🙋‍♀️ 만든 사람
 이름: 조연정 <br/>
